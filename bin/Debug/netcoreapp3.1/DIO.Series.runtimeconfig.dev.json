@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\seloe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\seloe\\.nuget\\packages"
+    ]
+  }
+}
